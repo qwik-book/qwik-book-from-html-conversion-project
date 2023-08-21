@@ -1,12 +1,12 @@
 export const chaptersData = [
     {
         "question": "1.- Introducción a Qwik",
-        "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. ...",
+        "answer": "Introducción a Qwik y explicación de las características de Qwik y primer ejemplo básico donde vamos a trabajar creando varias rutas sencillas antes de comenzar a trabajar de manera más detallada en aspectos del framework",
         "open": true
     },
     {
         "question": "2.- Enrutamiento",
-        "answer": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. ...",
+        "answer": "Lo que vamos a ver en este capítulo es una continuación a lo visto anteriormente en lo que se refiere al sistema de enrutamiento (Routing) y su funcionamiento, usando Qwik City donde lo veremos con todo detalle, tratando todos los aspectos más importantes y necesarios para poder trabajar de diferentes formas con ello.",
         "open": false
     },
     {
