@@ -1,5 +1,5 @@
 import { component$, Slot } from "@builder.io/qwik";
-import { useLocation, type RequestHandler } from "@builder.io/qwik-city";
+import { type RequestHandler } from "@builder.io/qwik-city";
 import { Footer } from "~/components/core/footer";
 import { Header } from "~/components/core/header";
 
